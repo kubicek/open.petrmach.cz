@@ -11,7 +11,7 @@ votings = []
 resolution_header_exp = /^\|(.*)\|(\d{2}\/\d{2}\/\d{4} \d{2}:\d{2}:\d{2}.\d{3})\s*\|/
 
 r.split("\n").each{ |line|
-	
+
 	if line.match("SOMMAIRE")
 	  summary_section = true
 	  next
@@ -52,7 +52,7 @@ r.split("\n").each{ |line|
 	end
 
 }
-puts votings.to_json
+puts JSON.pretty_generate(votings)
 #puts "SUMMARY"
 #puts summary
 #puts "*"*20

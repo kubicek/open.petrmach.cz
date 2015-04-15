@@ -1,0 +1,27 @@
+[
+  {
+    "voted_at": "2014-11-13T11:10:38+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0024/2014 - Ivan Štefanec - jediné hlasování"
+  },
+  {
+    "voted_at": "2014-11-13T11:11:13+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0023/2014 - Victor Negrescu - jediné hlasování"
+  },
+  {
+    "voted_at": "2014-11-13T11:14:43+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0022/2014 - Petras Auštrevičius - usnesení"
+  },
+  {
+    "voted_at": "2014-11-13T11:15:22+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0020/2014 - Petras Auštrevičius - schválení"
+  },
+  {
+    "voted_at": "2014-11-13T11:17:23+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0211/2014 - pn. 5Z"
+  }
+]

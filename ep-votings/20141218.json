@@ -1,0 +1,67 @@
+[
+  {
+    "voted_at": "2014-12-18T11:37:58+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - pn. 5"
+  },
+  {
+    "voted_at": "2014-12-18T11:38:13+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - pn. 6"
+  },
+  {
+    "voted_at": "2014-12-18T11:38:48+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - pn. 7"
+  },
+  {
+    "voted_at": "2014-12-18T11:39:08+00:00",
+    "voted": "against",
+    "voting_topic": "RC-B8-0375/2014 - pn. 1"
+  },
+  {
+    "voted_at": "2014-12-18T11:39:48+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - pn. 2"
+  },
+  {
+    "voted_at": "2014-12-18T11:40:01+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - pn. 4"
+  },
+  {
+    "voted_at": "2014-12-18T11:40:36+00:00",
+    "voted": "against",
+    "voting_topic": "RC-B8-0375/2014 - pn. 3"
+  },
+  {
+    "voted_at": "2014-12-18T11:41:10+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0375/2014 - usnesení"
+  },
+  {
+    "voted_at": "2014-12-18T11:43:18+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0389/2014 - usnesení"
+  },
+  {
+    "voted_at": "2014-12-18T11:44:09+00:00",
+    "voted": "abstention",
+    "voting_topic": "B8-0348/2014 - usnesení"
+  },
+  {
+    "voted_at": "2014-12-18T11:44:43+00:00",
+    "voted": "against",
+    "voting_topic": "B8-0381/2014 - usnesení"
+  },
+  {
+    "voted_at": "2014-12-18T11:48:25+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0042/2014 - Andrejs Mamikins - usnesení"
+  },
+  {
+    "voted_at": "2014-12-18T11:48:58+00:00",
+    "voted": "against",
+    "voting_topic": "A8-0041/2014 - Andrejs Mamikins - schválení"
+  }
+]

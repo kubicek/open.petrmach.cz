@@ -1,0 +1,37 @@
+[
+  {
+    "voted_at": "2015-02-12T11:22:47+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0143/2015 - usnesení"
+  },
+  {
+    "voted_at": "2015-02-12T11:23:41+00:00",
+    "voted": "abstention",
+    "voting_topic": "RC-B8-0150/2015 - usnesení"
+  },
+  {
+    "voted_at": "2015-02-12T11:25:27+00:00",
+    "voted": "against",
+    "voting_topic": "B8-0169/2015 - pn. 1"
+  },
+  {
+    "voted_at": "2015-02-12T11:26:07+00:00",
+    "voted": "against",
+    "voting_topic": "B8-0169/2015 - rozhodnutí"
+  },
+  {
+    "voted_at": "2015-02-12T11:27:37+00:00",
+    "voted": "for",
+    "voting_topic": "RC-B8-0136/2015 - § 5/1"
+  },
+  {
+    "voted_at": "2015-02-12T11:28:23+00:00",
+    "voted": "against",
+    "voting_topic": "RC-B8-0136/2015 - § 17"
+  },
+  {
+    "voted_at": "2015-02-12T11:29:42+00:00",
+    "voted": "for",
+    "voting_topic": "RC-B8-0136/2015 - bod odůvodnění K"
+  }
+]
